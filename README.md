@@ -5,27 +5,24 @@
 
 **Key features:**
 
-    - Anyone can search available vacant houses by rent range, location, and size
+    - Email verification on user registration
 
-    - House owners can make posts about their vacant properties providing sufficient information in that
+    - Easy & effective searching option 
+   
+    - Exploring option on google map to find appropriate house rent posts
+    
+    - Search on Google Map by area 
 
-    - Users can contact the property owners by the provided information on their profiles
+    - Payment acknowlegement report (dummy)
 
-    - Users can explore suitable areas on the map to get the 
-      available vacant houses where the map markers are categorized by rents
-
-    - Users can also search on the exploring map by rent range and area
-
-    - Users can check their working location distance and route from any posted house
+    - Distance and route checking option from any rent post location to any chosen location on Google Map
+      (it might be user's work/school location)
 
 **Used Languages & Technologies:**
 
-    - HTML,CSS,Javascript for frontend
-
-    - PHP for backend
-
-    - MySQL for database
-    
+    - HTML,CSS,Javascript 
+    - PHP 
+    - MySQL
     - Google Map APIs
 
 
