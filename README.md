@@ -47,31 +47,31 @@ In any post details, user will find options to pay(dummy) for the property and t
 
 
 
-  <pre> <b>Manual Search:                                             Explore on Map with filtering option:</b></pre>
+  <pre> <b>Manual Search:                                  Explore on Map with filtering option:</b></pre>
 
 There is a feature of exploring the google map with customized markers. Markers are customized according to the rent of the posted properties. 
  
  <p float="left">
-     <img src="https://user-images.githubusercontent.com/57936009/170674854-4ea07f25-73da-4c07-8220-43116ab077c5.png" width="450" height = "250"/>
-     &nbsp &nbsp &nbsp &nbsp&nbsp &nbsp <img src="https://user-images.githubusercontent.com/57936009/170675253-b2ae418a-242a-4800-89d7-8e55742b080e.png" width="450" height = "250"/>  
+     <img src="https://user-images.githubusercontent.com/57936009/170674854-4ea07f25-73da-4c07-8220-43116ab077c5.png" width="390" height = "220"/>
+     &nbsp &nbsp <img src="https://user-images.githubusercontent.com/57936009/170675253-b2ae418a-242a-4800-89d7-8e55742b080e.png" width="390" height = "220"/>  
     </p>
     
   
     
     
- <pre> <b>Set location to check rounte & distance:                   Result:</b></pre>
+ <pre> <b>Set location to check rounte & distance:        Result:</b></pre>
  Users can check the important locations from any post location. They just have to select their regular work or other location to check it. As a result they will get the route,distance and duration of travel to that location.
  <p float="left">
-     <img src="https://user-images.githubusercontent.com/57936009/170675766-fc2fd698-fdcb-488b-a961-658cde0c9d23.jpeg" width="450" height = "250"/>
-     &nbsp &nbsp &nbsp &nbsp&nbsp &nbsp <img src="https://user-images.githubusercontent.com/57936009/170675889-aa88dc8a-ceb5-4abe-bb9c-3adceb559a3f.jpeg" width="450" height = "250"/>
+     <img src="https://user-images.githubusercontent.com/57936009/170675766-fc2fd698-fdcb-488b-a961-658cde0c9d23.jpeg" width="390" height = "220"/>
+     &nbsp &nbsp <img src="https://user-images.githubusercontent.com/57936009/170675889-aa88dc8a-ceb5-4abe-bb9c-3adceb559a3f.jpeg" width="390" height = "220"/>
     </p>
 
     
    
-   <pre> <b>Set location to check rounte & distance:                   Result:</b></pre>
+   <pre> <b>Payment Acknowledgement PDF:</b></pre>
  After paying advance money(dummy) of any property, a payment acknowledgement will be sent to both of their(payer & payee) emails from the application.
  <p align="center">
-     <img src="https://user-images.githubusercontent.com/57936009/170684629-fcec6ae0-3ca0-418a-a8ec-dbbf7f6aaf61.png" width="450" height = "250"/>
+     <img src="https://user-images.githubusercontent.com/57936009/170684629-fcec6ae0-3ca0-418a-a8ec-dbbf7f6aaf61.png" width="390" height = "220"/>
    
 </p>
 
