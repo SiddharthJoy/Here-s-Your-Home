@@ -36,12 +36,12 @@
 
   </p>
 
-<pre> <b>Recent Posts:                                              Post details:</b></pre>
+<pre> <b>Recent Posts:                                  Post details:</b></pre>
 In any post details, user will find options to pay(dummy) for the property and to check route & distance to any other places from the given location.
  
  <p float="left">
-     <img src="https://user-images.githubusercontent.com/57936009/170672791-f437d567-d8dc-474e-8106-f05ab98764c7.jpeg" width="450" height = "250"/>
-     &nbsp &nbsp &nbsp &nbsp <img src="https://user-images.githubusercontent.com/57936009/170672912-a0fe2eba-d4d9-4d2f-b61c-20ed118f4926.jpeg" width="450" height = "250"/>
+     <img src="https://user-images.githubusercontent.com/57936009/170672791-f437d567-d8dc-474e-8106-f05ab98764c7.jpeg" width="385" height = "215"/>
+     &nbsp &nbsp  <img src="https://user-images.githubusercontent.com/57936009/170672912-a0fe2eba-d4d9-4d2f-b61c-20ed118f4926.jpeg" width="385" height = "215"/>
 
   </p>
 
