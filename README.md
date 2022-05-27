@@ -27,11 +27,11 @@
 
 # Demonstration:
 
- <pre> <b>Make Post:                                                 User posts & About:</b></pre>
+ <pre> <b>Make Post:                                        User posts & About:</b></pre>
  To make a post for any property, users must fill all the fields of the form. In the form, they can upload pictures of the property and also can give the location of the property. By default, the application will show the current location of the user. 
  <p float="left">
-     <img src="https://user-images.githubusercontent.com/57936009/170668572-31f374fc-2cc5-4798-9168-a50d3d4bb357.jpg" width="450" />
-     &nbsp &nbsp &nbsp &nbsp&nbsp &nbsp <img src="https://user-images.githubusercontent.com/57936009/170671094-aeb001bf-5f4a-44b9-ae71-65fcb10489a6.jpg" width="450" />
+     <img src="https://user-images.githubusercontent.com/57936009/170668572-31f374fc-2cc5-4798-9168-a50d3d4bb357.jpg" width="375" />
+     &nbsp &nbsp &nbsp &nbsp&nbsp &nbsp <img src="https://user-images.githubusercontent.com/57936009/170671094-aeb001bf-5f4a-44b9-ae71-65fcb10489a6.jpg" width="375" />
 
 
   </p>
@@ -41,7 +41,7 @@ In any post details, user will find options to pay(dummy) for the property and t
  
  <p float="left">
      <img src="https://user-images.githubusercontent.com/57936009/170672791-f437d567-d8dc-474e-8106-f05ab98764c7.jpeg" width="450" height = "250"/>
-     &nbsp &nbsp &nbsp &nbsp&nbsp &nbsp <img src="https://user-images.githubusercontent.com/57936009/170672912-a0fe2eba-d4d9-4d2f-b61c-20ed118f4926.jpeg" width="450" height = "250"/>
+     &nbsp &nbsp &nbsp &nbsp <img src="https://user-images.githubusercontent.com/57936009/170672912-a0fe2eba-d4d9-4d2f-b61c-20ed118f4926.jpeg" width="450" height = "250"/>
 
   </p>
 
